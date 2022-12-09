@@ -1,4 +1,4 @@
-![LeetCode Stats](https://leetcard.jacoblin.cool/Aaryan3012?theme=dark&font=IBM%20Plex%20Sans%20Arabic&ext=heatmap)
+<!--![LeetCode Stats](https://leetcard.jacoblin.cool/Aaryan3012?theme=dark&font=IBM%20Plex%20Sans%20Arabic&ext=heatmap)-->
 <p align="middle">
 <img src="cheer-up-star.gif" width="150" height="150" />
   </p>
