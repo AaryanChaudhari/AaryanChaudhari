@@ -1,9 +1,11 @@
-<!--![LeetCode Stats](https://leetcard.jacoblin.cool/Aaryan3012?theme=dark&font=IBM%20Plex%20Sans%20Arabic&ext=heatmap)-->
-<p align="middle">
-<img src="cheer-up-star.gif" width="150" height="150" />
-  </p>
-  <br/>
-<p align="middle">
-<img src="min.gif" width="600" height="400" />
-<!---<img src="luffy2.gif" width="600" height="400" />-->
-<img src="smile-cheer-up.gif" width="75" height="75" />
+![LeetCode Stats](https://leetcard.jacoblin.cool/Aaryan3012?theme=dark&font=IBM%20Plex%20Sans%20Arabic&ext=heatmap)
+<p float=left align=middle>
+
+<img src="https://media.giphy.com/media/J4mwzGaDrRw3u/giphy.gif" />
+</p>
+<br>
+<p float=left>
+<img src="https://thumbs.dreamstime.com/z/cheer-up-banner-speech-bubble-poster-sticker-concept-memphis-geometric-style-text-icon-message-cloud-talk-web-color-142993453.jpg" />
+<img src="https://media.giphy.com/media/xZx7ht7MH8Wqs/giphy.gif" />
+
+</p>
